@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="2.0">
+ <Ad id="586342222">
+  <InLine>
+   <AdSystem>DCM</AdSystem>
+   <AdTitle>In-Stream Video</AdTitle>
+   <Error><![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIot213PSfiwMV5qqDBx3wBR2sEAAYACD1hsNmSABQOliq6wFg-dmdD2jmuqq8AQ;dc_eps=AHas8cBjStoMlUL4Ns8G8W0txgReOfQ2euO9hkBERGRZikGSPmgC1Z-vMLmxjgHmB1htjM1CL4f0dR2vGyOu0BeOFBPyhno_ZjvrdUo;met=1;ecn1=1;etm1=0;eid1=200015;]]></Error>
+   <Impression><![CDATA[https://pagead2.googlesyndication.com/pcs/view?xai=AKAOjsv42DCFeyO_WNysak6d-NR5IfhcJhyWhtPJIzigHZv6E1y1LcIFTsWftN-COlXxi7x6RTDGI9zuo7wm381FzZEsbiKuMAGElcEDxEdnuk5Lihm7er_Hjn_2HtiqCUv3j62lH2hYnjPHzityhr_lSazNq-k&sig=Cg0ArKJSzNRHKObTHpDyEAE&uach_m=%5BUACH%5D&cry=1&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=]]></Impression>
+   <Creatives>
+    <Creative id="215008117" AdID="215008117-1" sequence="1">
+     <Linear>
+      <Duration>00:00:30</Duration>
+      <TrackingEvents>
+       <Tracking event="start"><![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIot213PSfiwMV5qqDBx3wBR2sEAAYACD1hsNmSABQOliq6wFg-dmdD2jmuqq8AQ;dc_eps=AHas8cBjStoMlUL4Ns8G8W0txgReOfQ2euO9hkBERGRZikGSPmgC1Z-vMLmxjgHmB1htjM1CL4f0dR2vGyOu0BeOFBPyhno_ZjvrdUo;met=1;ecn1=1;etm1=0;eid1=11;]]></Tracking>
+       <Tracking event="firstQuartile"><![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIot213PSfiwMV5qqDBx3wBR2sEAAYACD1hsNmSABQOliq6wFg-dmdD2jmuqq8AQ;dc_eps=AHas8cBjStoMlUL4Ns8G8W0txgReOfQ2euO9hkBERGRZikGSPmgC1Z-vMLmxjgHmB1htjM1CL4f0dR2vGyOu0BeOFBPyhno_ZjvrdUo;met=1;ecn1=1;etm1=0;eid1=960584;]]></Tracking>
+       <Tracking event="midpoint"><![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIot213PSfiwMV5qqDBx3wBR2sEAAYACD1hsNmSABQOliq6wFg-dmdD2jmuqq8AQ;dc_eps=AHas8cBjStoMlUL4Ns8G8W0txgReOfQ2euO9hkBERGRZikGSPmgC1Z-vMLmxjgHmB1htjM1CL4f0dR2vGyOu0BeOFBPyhno_ZjvrdUo;met=1;ecn1=1;etm1=0;eid1=18;]]></Tracking>
+       <Tracking event="thirdQuartile"><![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIot213PSfiwMV5qqDBx3wBR2sEAAYACD1hsNmSABQOliq6wFg-dmdD2jmuqq8AQ;dc_eps=AHas8cBjStoMlUL4Ns8G8W0txgReOfQ2euO9hkBERGRZikGSPmgC1Z-vMLmxjgHmB1htjM1CL4f0dR2vGyOu0BeOFBPyhno_ZjvrdUo;met=1;ecn1=1;etm1=0;eid1=960585;]]></Tracking>
+       <Tracking event="complete"><![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIot213PSfiwMV5qqDBx3wBR2sEAAYACD1hsNmSABQOliq6wFg-dmdD2jmuqq8AQ;dc_eps=AHas8cBjStoMlUL4Ns8G8W0txgReOfQ2euO9hkBERGRZikGSPmgC1Z-vMLmxjgHmB1htjM1CL4f0dR2vGyOu0BeOFBPyhno_ZjvrdUo;met=1;ecn1=1;etm1=0;eid1=13;]]></Tracking>
+       <Tracking event="mute"><![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIot213PSfiwMV5qqDBx3wBR2sEAAYACD1hsNmSABQOliq6wFg-dmdD2jmuqq8AQ;dc_eps=AHas8cBjStoMlUL4Ns8G8W0txgReOfQ2euO9hkBERGRZikGSPmgC1Z-vMLmxjgHmB1htjM1CL4f0dR2vGyOu0BeOFBPyhno_ZjvrdUo;met=1;ecn1=1;etm1=0;eid1=16;]]></Tracking>
+       <Tracking event="unmute"><![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIot213PSfiwMV5qqDBx3wBR2sEAAYACD1hsNmSABQOliq6wFg-dmdD2jmuqq8AQ;dc_eps=AHas8cBjStoMlUL4Ns8G8W0txgReOfQ2euO9hkBERGRZikGSPmgC1Z-vMLmxjgHmB1htjM1CL4f0dR2vGyOu0BeOFBPyhno_ZjvrdUo;met=1;ecn1=1;etm1=0;eid1=149645;]]></Tracking>
+       <Tracking event="pause"><![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIot213PSfiwMV5qqDBx3wBR2sEAAYACD1hsNmSABQOliq6wFg-dmdD2jmuqq8AQ;dc_eps=AHas8cBjStoMlUL4Ns8G8W0txgReOfQ2euO9hkBERGRZikGSPmgC1Z-vMLmxjgHmB1htjM1CL4f0dR2vGyOu0BeOFBPyhno_ZjvrdUo;met=1;ecn1=1;etm1=0;eid1=15;]]></Tracking>
+       <Tracking event="fullscreen"><![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIot213PSfiwMV5qqDBx3wBR2sEAAYACD1hsNmSABQOliq6wFg-dmdD2jmuqq8AQ;dc_eps=AHas8cBjStoMlUL4Ns8G8W0txgReOfQ2euO9hkBERGRZikGSPmgC1Z-vMLmxjgHmB1htjM1CL4f0dR2vGyOu0BeOFBPyhno_ZjvrdUo;met=1;ecn1=1;etm1=0;eid1=19;]]></Tracking>
+      </TrackingEvents>
+      <VideoClicks>
+       <ClickThrough><![CDATA[https://pagead2.googlesyndication.com/pcs/click?xai=AKAOjsu6XlWmHXDPjCw30tWBgKFpFWb7PvnTKeBG_k5tC5-KXGY19ETrb-bfe7-kqvT9rSK0al_svuEakpulBBRCgGWdvaDKdsOFMGfnZd76eT0Jk6UrqA-NUeazt9iOHecTlE5MJcxNEvsLw7oMEC0Tdg-eKE8&sig=Cg0ArKJSzF3uVdYo_3STEAE&cry=1&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://zooatlanta.org/%3Fdclid%3D%25edclid!]]></ClickThrough>
+      </VideoClicks>
+      <MediaFiles>
+       <MediaFile id="867852838-309" delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="19967" scalable="true" maintainAspectRatio="true"><![CDATA[https://gcdn.2mdn.net/videoplayback/id/25b4ceccd4688202/itag/309/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3859216765/sparams/id,itag,source,xpc,ctier,acao,ip,ipbits,expire/signature/7ABE0BADEBF06135CB90BF9E4FA81325703DA718.9E594FDAE54C97EA8BADC51213870D935C46D1A2/key/ck2/file/file.mp4]]></MediaFile>
+      </MediaFiles>
+     </Linear>
+    </Creative>
+   </Creatives>
+   <Extensions><Extension type="geo"><Country>PL</Country><Bandwidth>0</Bandwidth></Extension><Extension type="dart"><AdServingData><DeliveryData><GeoData><![CDATA[ct=PL&st=&city=10946&dma=0&zp=04&bw=0]]></GeoData></DeliveryData></AdServingData></Extension><Extension type="GDCM"><UniversalAdId><Id>215008117-1</Id><InCreativeAdId>Yes</InCreativeAdId></UniversalAdId></Extension></Extensions>
+  </InLine>
+ </Ad>
+</VAST>
