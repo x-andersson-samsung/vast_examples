@@ -1,0 +1,32 @@
+<VAST version="2.0">
+	<Ad id="preroll-1">
+		<InLine>
+			<AdSystem>2.0</AdSystem>
+			<AdTitle>5748406</AdTitle>
+			<Impression id="blah">
+				<![CDATA[
+		http://b.scorecardresearch.com/b?C1=1&C2=6000003&C3=0000000200500000197000000&C4=us&C7=http://www.scanscout.com&C8=scanscout.com&C9=http://www.scanscout.com&C10=xn&rn=-103217130
+		]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<Duration>00:00:30</Duration>
+						<TrackingEvents></TrackingEvents>
+						<VideoClicks>
+							<ClickThrough id="scanscout">
+								<![CDATA[ http://www.target.com ]]>
+							</ClickThrough>
+						</VideoClicks>
+						<MediaFiles>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions>
+			</Extensions>
+		</InLine>
+	</Ad>
+</VAST>
+
+
