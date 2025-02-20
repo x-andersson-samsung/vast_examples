@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
+	<Ad id="286118">
+		<InLine>
+			<AdSystem>AdGear RTB</AdSystem>
+			<AdTitle>Vast In-Stream Video</AdTitle>
+			<Error><![CDATA[https://rtb.adgrx.com/trackers/INFO/vast3_error_[ERRORCODE].gif]]></Error>
+			<Impression><![CDATA[https://rtb.adgrx.com/impressions/INFO/286118.gif?AG_WP=0&AG_IT=1&AG_LP=0&AG_R=39038956]]></Impression>
+
+
+			<Creatives>
+				<Creative sequence="1">
+					<Linear>
+						<Duration>00:00:30</Duration>
+
+						<TrackingEvents>
+							<Tracking event="complete"><![CDATA[https://rtb.adgrx.com/trackers/INFO/complete.gif]]></Tracking>
+							<Tracking event="firstQuartile"><![CDATA[https://rtb.adgrx.com/trackers/INFO/first_quartile.gif]]></Tracking>
+							<Tracking event="fullscreen"><![CDATA[https://rtb.adgrx.com/trackers/INFO/fullscreen.gif]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[https://rtb.adgrx.com/trackers/INFO/midpoint.gif]]></Tracking>
+							<Tracking event="mute"><![CDATA[https://rtb.adgrx.com/trackers/INFO/mute.gif]]></Tracking>
+							<Tracking event="pause"><![CDATA[https://rtb.adgrx.com/trackers/INFO/pause.gif]]></Tracking>
+							<Tracking event="resume"><![CDATA[https://rtb.adgrx.com/trackers/INFO/resume.gif]]></Tracking>
+							<Tracking event="rewind"><![CDATA[https://rtb.adgrx.com/trackers/INFO/rewind.gif]]></Tracking>
+							<Tracking event="start"><![CDATA[https://rtb.adgrx.com/trackers/INFO/start.gif]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[https://rtb.adgrx.com/trackers/INFO/third_quartile.gif]]></Tracking>
+							<Tracking event="unmute"><![CDATA[https://rtb.adgrx.com/trackers/INFO/unmute.gif]]></Tracking>
+
+							<Tracking event="skip"><![CDATA[https://rtb.adgrx.com/trackers/INFO/skip.gif]]></Tracking>
+
+
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough><![CDATA[https://samsung.com]]></ClickThrough>
+							<ClickTracking><![CDATA[https://rtb.adgrx.com/clicks/INFO/]]></ClickTracking>
+
+						</VideoClicks>
+						<MediaFiles>
+
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2400" width="1280" height="720">
+								<![CDATA[https://d3188bz1xcsvdh.cloudfront.net/video_1031787/transcoded_1280x720_FF_Z-Fold3-5G_CT_vid_CS_1920x1080_DV_30sec_CE_locadpt_LG_en_MG_Fold-Hero_CW_ina_DC_fea_CV_mp_TA_na.mp4]]>
+							</MediaFile>
+
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="5400" width="1920" height="1080">
+								<![CDATA[https://d3188bz1xcsvdh.cloudfront.net/video_1031787/transcoded_1920x1080_FF_Z-Fold3-5G_CT_vid_CS_1920x1080_DV_30sec_CE_locadpt_LG_en_MG_Fold-Hero_CW_ina_DC_fea_CV_mp_TA_na.mp4]]>
+							</MediaFile>
+
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
