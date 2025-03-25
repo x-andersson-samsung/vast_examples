@@ -37,7 +37,7 @@
 						</VideoClicks>
 						<MediaFiles>
 
-							<MediaFile delivery="progressive" type="video/mp4" bitrate="2400" width="1280" height="720">
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2400" width="1400" height="200">
 								<![CDATA[https://d3188bz1xcsvdh.cloudfront.net/video_1031787/transcoded_1280x720_FF_Z-Fold3-5G_CT_vid_CS_1920x1080_DV_30sec_CE_locadpt_LG_en_MG_Fold-Hero_CW_ina_DC_fea_CV_mp_TA_na.mp4]]>
 							</MediaFile>
 
